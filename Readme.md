@@ -1,5 +1,5 @@
 ## Purpose
-A portfolio showcasing my work built as a single page application using React. Main Components include an AboutMe, Resume, Contact Me section, and a work portflio comprised of 6 recent projects. 
+API testing that utilizes jsonplaceholder.typicode.com data. Program will fetch users and display posts based upon your selection. 
 
 ## ScreenShot
 ![](assets/screenshot.PNG)
